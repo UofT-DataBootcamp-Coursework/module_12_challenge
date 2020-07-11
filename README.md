@@ -12,7 +12,7 @@ The goals of this challenge are to:
 - BONUS - create a gauge chart to plot the weekly washing frequency of the individual.
 
 ## Resources
-Data Sources: [plots](plot.js), [index](index.html), [data](samples.JSON)
+Data Sources: [plots](plots.js), [index](index.html), [data](samples.json)
 
 Software: JavaScript (w/ Plotly), HTML, VSCode
 
