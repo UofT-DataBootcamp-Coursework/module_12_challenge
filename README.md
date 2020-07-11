@@ -17,4 +17,4 @@ Data Sources: [plots](plots.js), [index](index.html), [data](samples.json)
 Software: JavaScript (w/ Plotly), HTML, VSCode
 
 ## Report Completed By:
-![](static/images/Sal.jpg)
+![](static/images/sal.jpg)
